@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "debug": "4.2.0",
+    "moralis": "^1.8.1",
     "timesync": "^1.0.10"
   },
   "devDependencies": {
